@@ -1,0 +1,5 @@
+# Bibliotecas utilizadas no projeto:
+selenium
+pyspark
+Scrapy
+google-cloud-bigquery
